@@ -1,0 +1,13 @@
+# Google Sheets
+GOOGLE_SERVICE_ACCOUNT_EMAIL=your-service-account@your-project.iam.gserviceaccount.com
+GOOGLE_PRIVATE_KEY="-----BEGIN PRIVATE KEY-----\nYOUR_KEY_HERE\n-----END PRIVATE KEY-----\n"
+GOOGLE_SHEET_ID=your_google_sheet_id_here
+
+# Gmail (nodemailer)
+# IMPORTANT: Use a Gmail App Password, NOT your real Gmail password.
+# To create one: Google Account → Security → 2-Step Verification → App Passwords
+MAIL_USER=your_gmail@gmail.com
+MAIL_PASS=your_gmail_app_password_here
+
+# Server
+PORT=3000
