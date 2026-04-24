@@ -30,7 +30,7 @@ description: Automated multi-agent workflow that parses job descriptions, genera
 **Task:** Finalize the document by creating a physical file and providing access.  
 **Rules:**
 - **Action 1 (File):** Save the text from Agent 2 as a file named `cover_letter.txt`.
-- **Action 2 (Email):** Send the final cover letter text to the user's email address (baran.yazici@atilim.edu.tr).
+- **Action 2 (Email):** Send the final cover letter text to the user's email address (barankemalyazici@gmail.com).
 - **Storage:** Use the 'Non-Workspace File Access' protocol.
 - **Final Output:** Provide a clickable "Direct Download Link" AND confirm with the message: "The cover letter has also been sent to your email."
 - Output: Pass name, email, parsedData, and fileInfo to Agent 4.
