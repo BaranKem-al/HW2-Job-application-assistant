@@ -1,5 +1,6 @@
 # Job Application Assistant
 Before testing this file put "." before agents
+
 Multi-agent workflow that parses job descriptions, generates cover letters, and logs data to Google Sheets.
 
 ## Architecture
