@@ -1,7 +1,8 @@
-[README.md](https://github.com/user-attachments/files/27062637/README.md)
+
 # Job Application Assistant
 
 Multi-agent workflow that parses job descriptions, generates cover letters, and logs data to Google Sheets.
+
 Not: Before testing this file put "." infront of the agent file
 ## Architecture
 
